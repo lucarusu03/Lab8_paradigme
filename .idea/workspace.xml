@@ -4,16 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d669dff-dc44-4b18-b45e-ade964bf8161" name="Changes" comment="fisiere adaugate">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab8/ACalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab8/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab8/DoubleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/ulbs/paradigme/lab8/NewIntCalculator.java" afterDir="false" />
+    <list default="true" id="5d669dff-dc44-4b18-b45e-ade964bf8161" name="Changes" comment="fisiere adaugate corect">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ulbs/paradigme/lab8/DoubleCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ulbs/paradigme/lab8/NewIntTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -23,9 +31,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="NewIntTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2fX9qVajA2hGxgzHjy4xDChXOJu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,8 +47,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.DoubleCalculatorTest.executor": "Run",
+    "JUnit.NewIntTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "lab8",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -49,6 +65,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-9b16c6e2" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713936746218</updated>
       <workItem from="1713936747266" duration="718000" />
+      <workItem from="1713937519868" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="primul commit">
       <option name="closed" value="true" />
@@ -67,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713936820852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fisiere adaugate corect">
+      <option name="closed" value="true" />
+      <created>1713937544994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713937544994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primul commit" />
     <MESSAGE value="fisiere adaugate" />
-    <option name="LAST_COMMIT_MESSAGE" value="fisiere adaugate" />
+    <MESSAGE value="fisiere adaugate corect" />
+    <option name="LAST_COMMIT_MESSAGE" value="fisiere adaugate corect" />
   </component>
 </project>
